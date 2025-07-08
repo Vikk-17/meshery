@@ -1,8 +1,6 @@
 package core
 
 
-
-
 import (
 	"io"
 	"os"
